@@ -1,0 +1,5 @@
+{
+  "name": "SnapSubV1",
+  "description": "A powerful, web-based video subtitle editor powered by Google Gemini. Upload videos, automatically generate subtitles, edit them in real-time, and export as SRT/VTT.",
+  "requestFramePermissions": []
+}
